@@ -1,3 +1,5 @@
+var jQuery = require('jquery');
+
 (function($) {
 	var keyRows = [
 		['q', 'w', 'e', 'r', 't', 'y', 'u', 'i', 'o', 'p'],
