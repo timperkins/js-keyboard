@@ -1,0 +1,24 @@
+{
+  "name": "js-keyboard",
+  "version": "1.0.0",
+  "description": "A mobile-friendly soft keyboard written in javascript.",
+  "main": "js-keyboard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/timperkins/js-keyboard.git"
+  },
+  "keywords": [
+    "keyboard",
+    "mobile",
+    "js"
+  ],
+  "author": "Tim Perkins",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timperkins/js-keyboard/issues"
+  },
+  "homepage": "https://github.com/timperkins/js-keyboard#readme"
+}
